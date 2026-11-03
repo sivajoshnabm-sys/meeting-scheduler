@@ -1,0 +1,20 @@
+# Environment variables and API keys
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node.js
+node_modules/
+
+# Google credentials
+credentials.json
+token.json
+
+# Generated files
+uploads/
